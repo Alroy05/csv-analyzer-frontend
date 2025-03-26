@@ -7,6 +7,11 @@ RAG CSV Analyzer is a web-based tool that allows users to upload, analyze, and q
 ![Screenshot 1](/assets/ss1.png)
 ![Screenshot 2](/assets/ss2.png)
 
+## 🔗 Deployed URL
+```bash
+   https://csv-analyzer-alroy.streamlit.app/
+   ```
+   
 ## 🚀 Installation Steps
 
 ### Frontend Setup (Streamlit App)
