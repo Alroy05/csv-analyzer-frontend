@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-motor  # For MongoDB asynchronous driver
+motor
 pandas
 python-dotenv
 pydantic
+requests
