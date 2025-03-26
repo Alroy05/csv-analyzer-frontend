@@ -4,8 +4,8 @@ RAG CSV Analyzer is a web-based tool that allows users to upload, analyze, and q
 
 ## 🖼️ Project Screenshots
 
-![Screenshot 1](path/to/image1.png)
-![Screenshot 2](path/to/image2.png)
+![Screenshot 1](/assets/ss1.png)
+![Screenshot 2](/assets/ss2.png)
 
 ## 🚀 Installation Steps
 
