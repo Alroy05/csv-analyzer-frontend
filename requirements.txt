@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+motor  # For MongoDB asynchronous driver
+pandas
+python-dotenv
+pydantic
