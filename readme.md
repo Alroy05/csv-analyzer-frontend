@@ -18,7 +18,7 @@ RAG CSV Analyzer is a web-based tool that allows users to upload, analyze, and q
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/csv-analyzer-frontend.git
+   git clone https://github.com/Alroy05/csv-analyzer-frontend.git
    cd csv-analyzer-frontend
    ```
 
